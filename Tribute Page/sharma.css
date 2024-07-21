@@ -1,0 +1,84 @@
+body {
+    
+    color: azure;
+    background: linear-gradient(to right, black, gray);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    margin: 50px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+p {
+    float: right;
+    width: 550px;
+    margin-right: 30px;
+}
+
+.stats {
+    margin-top: 525px;
+    margin-left: 230px;
+}
+
+.odi-records {
+    width: 650px;
+    background-color: blanchedalmond;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 13px;
+    padding: 1px;
+}
+
+.t20i-records {
+    width: 650px;
+    background-color: blanchedalmond;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 13px;
+    padding: 1px;
+    float: right;
+}
+
+.test-records {
+    width: 650px;
+    background-color: blanchedalmond;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 13px;
+    padding: 1px;
+    margin-top: 430px;
+}
+
+.ipl-records {
+    width: 650px;
+    background-color: blanchedalmond;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 13px;
+    padding: 1px;
+    float: right;
+}
+
+.awards {
+    width: 650px;
+    background-color: blanchedalmond;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 13px;
+    padding: 1px;
+    margin-top: 640px;
+    margin-left: 280px;
+}
+
+.wc img {
+    margin: 15px;
+    
+}
